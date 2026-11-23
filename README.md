@@ -20,6 +20,7 @@ The guide is being built live, for education and reference. Every episode is in 
 | --- | --- |
 | [Episode 1](https://www.youtube.com/watch?v=FKP-nit5t0k) | Basic pharmacist representation |
 | [Episode 2](https://www.youtube.com/watch?v=idUk0Y7YGVc) | Richer modeling for degrees, licenses, and board certifications |
+| [Episode 3](https://www.youtube.com/watch?v=-Ls2lz3_8f4) | Modeling Pharmacies Part 1|
 
 ## Building locally
 
